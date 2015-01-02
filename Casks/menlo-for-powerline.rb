@@ -1,4 +1,4 @@
-class MenloForPowerline < Cask
+cask :v1 => 'menlo-for-powerline' do
   version :latest
   sha256 :no_check
 
