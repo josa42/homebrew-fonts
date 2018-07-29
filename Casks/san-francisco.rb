@@ -4,7 +4,6 @@ cask 'san-francisco' do
 
   url 'https://codeload.github.com/AppleDesignResources/SanFranciscoFont/zip/master'
   homepage 'https://github.com/AppleDesignResources/SanFranciscoFont'
-  license :closed
 
   font 'SanFranciscoFont-master/SanFranciscoDisplay-Black.otf'
   font 'SanFranciscoFont-master/SanFranciscoDisplay-Bold.otf'

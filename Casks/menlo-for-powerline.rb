@@ -4,7 +4,6 @@ cask 'menlo-for-powerline' do
 
   url 'https://github.com/abertsch/Menlo-for-Powerline/archive/master.zip'
   homepage 'https://github.com/abertsch/Menlo-for-Powerline'
-  license :closed
 
   font 'Menlo-for-Powerline-master/Menlo Bold Italic for Powerline.ttf'
   font 'Menlo-for-Powerline-master/Menlo Bold for Powerline.ttf'
